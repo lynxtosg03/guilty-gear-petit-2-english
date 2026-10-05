@@ -1,0 +1,5 @@
+*.wsc
+*.ws
+*.rom
+*.sav
+.DS_Store
